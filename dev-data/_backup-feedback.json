@@ -1,0 +1,42 @@
+[
+  {
+      "question":  "Nếu bạn mất khả năng nói chuyện tối nay, điều bạn muốn nói với tôi là gì để cải thiện bản thân?",
+      "id": 1
+  },
+  {
+      "question": "Cá nhân, bạn có nghĩ rằng vấn đề kích thước trong thực tế?",
+      "id": 2
+  },
+  {
+      "question": "Bạn đã bao giờ nghe lén tôi hay lén nhìn tôi mà không báo trước?",
+      "id": 3
+  },
+  {
+      "question": "Bạn đã bao giờ vô tình và cố ý hôn ai đó hay cố gắng hôn ai đó?",
+      "id": 4
+  },
+  {
+      "question": "Thói quen của bạn mỗi tối ngay trước khi bạn đi ngủ?",
+      "id": 5
+  },
+  {
+      "question": "Nếu bạn cảm thấy rằng tôi bắt đầu phải lòng bạn, bạn sẽ làm gì?",
+      "id": 6
+  },
+  {
+      "question": "Ai là thằng khốn / chó cái lớn nhất bạn từng gặp trong đời?",
+      "id": 7
+  },
+  {
+      "question": "Nếu bạn phải chọn một con vật, bạn sẽ thấy con vật nào quyến rũ nhất?",
+      "id": 8
+  },
+  {
+      "question": "Nếu bạn phải thay đổi giới tính, phần nào trên cơ thể bạn sẽ muốn tăng cường hơn bất cứ thứ gì khác?",
+      "id": 9
+  },
+  {
+      "question": "Bạn đã bao giờ phải lòng bí mật với bất kỳ giáo viên hoặc bạn bè của bạn, và họ đã bao giờ biết về nó?",
+      "id": 10
+  }
+]
